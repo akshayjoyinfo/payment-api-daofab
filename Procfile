@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar build/libs/PaymentBe-0.0.1-SNAPSHOT.jar
